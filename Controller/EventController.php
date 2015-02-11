@@ -1,7 +1,13 @@
 <?php
 
 class EventController extends AppController{
-
+	/*
+	Important IMportante IMporatanious Importaniouses
+	
+	
+	
+	
+	*/
 	public $uses = array(
 		'Event',
 		'User',
